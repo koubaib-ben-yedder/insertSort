@@ -1,4 +1,7 @@
 
+// sort from the greatest to smallest
+
+
 const list=[1,20,7,7,5,100,444]
 
 
